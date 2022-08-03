@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="9" total="10" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-03T13:36:10 GMT+05:30" name="Default suite" finished-at="2022-08-03T13:36:21 GMT+05:30" duration-ms="11851">
+    <groups>
+    </groups>
+    <test started-at="2022-08-03T13:36:10 GMT+05:30" name="Default test" finished-at="2022-08-03T13:36:21 GMT+05:30" duration-ms="11851">
+      <class name="com.tideselenium.runner.Runner">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.tideselenium.runner.Runner@7205765b]" started-at="2022-08-03T13:36:10 GMT+05:30" name="setup" finished-at="2022-08-03T13:36:12 GMT+05:30" duration-ms="2799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testCase7()[pri:0, instance:com.tideselenium.runner.Runner@7205765b]" started-at="2022-08-03T13:36:12 GMT+05:30" name="testCase7" finished-at="2022-08-03T13:36:21 GMT+05:30" duration-ms="8521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase7 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.tideselenium.runner.Runner@7205765b]" started-at="2022-08-03T13:36:21 GMT+05:30" name="tearDown" finished-at="2022-08-03T13:36:21 GMT+05:30" duration-ms="470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tideselenium.runner.Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
